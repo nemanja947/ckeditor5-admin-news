@@ -1,0 +1,1 @@
+(function(d){d['da']=Object.assign(d['da']||{},{a:"Fortryd",b:"Gentag",c:"Editor værktøjslinje",d:"Vis flere emner",e:"Wysiwyg editor",f:"Wysiwyg editor, %0",g:"Dropdown værktøjslinje"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

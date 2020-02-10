@@ -1,0 +1,1 @@
+(function(d){d['vi']=Object.assign(d['vi']||{},{a:"Hoàn tác",b:"Tiếp tục",c:"Thanh công cụ biên tập",d:"Xem thêm",e:"Trình soạn thảo văn bản",f:"Trình soạn thảo văn bản, %0",g:"Thanh công cụ danh mục"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

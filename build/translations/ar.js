@@ -1,0 +1,1 @@
+(function(d){d['ar']=Object.assign(d['ar']||{},{a:"تراجع",b:"إعادة",c:"Editor toolbar",d:"Show more items",e:"معالج نصوص",f:"معالج نصوص، 0%",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

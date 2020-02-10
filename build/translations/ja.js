@@ -1,0 +1,1 @@
+(function(d){d['ja']=Object.assign(d['ja']||{},{a:"元に戻す",b:"やり直し",c:"Editor toolbar",d:"Show more items",e:"リッチテキストエディター",f:"リッチテキストエディター, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

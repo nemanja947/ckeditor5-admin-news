@@ -1,0 +1,1 @@
+(function(d){d['ug']=Object.assign(d['ug']||{},{a:"قالدۇرۇش",b:"قايتا قىلىش",c:"Editor toolbar",d:"Show more items",e:"تېكىست تەھرىرلىگۈچ",f:"تېكىست تەھرىرلىگۈچ، 0%",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

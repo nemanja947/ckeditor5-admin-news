@@ -1,0 +1,1 @@
+(function(d){d['pt-br']=Object.assign(d['pt-br']||{},{a:"Desfazer",b:"Refazer",c:"Ferramentas do Editor",d:"Exibir mais itens",e:"Editor de Formatação",f:"Editor de Formatação, %0",g:"Barra de Ferramentas da Lista Suspensa"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

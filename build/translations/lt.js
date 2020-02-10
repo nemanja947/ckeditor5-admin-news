@@ -1,0 +1,1 @@
+(function(d){d['lt']=Object.assign(d['lt']||{},{a:"Atgal",b:"Pirmyn",c:"Editor toolbar",d:"Show more items",e:"Raiškiojo teksto redaktorius",f:"Raiškiojo teksto redaktorius, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

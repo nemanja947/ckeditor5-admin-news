@@ -1,0 +1,1 @@
+(function(d){d['pt']=Object.assign(d['pt']||{},{a:"Desfazer",b:"Refazer",c:"Editor toolbar",d:"Show more items",e:"Editor de texto avançado",f:"Editor de texto avançado, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

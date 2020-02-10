@@ -1,0 +1,1 @@
+(function(d){d['ru']=Object.assign(d['ru']||{},{a:"Отменить",b:"Повторить",c:"Editor toolbar",d:"Show more items",e:"Редактор",f:"Редактор, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,0 +1,1 @@
+(function(d){d['eu']=Object.assign(d['eu']||{},{a:"Desegin",b:"Berregin",c:"Editor toolbar",d:"Show more items",e:"Testu aberastuaren editorea",f:"Testu aberastuaren editorea, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,0 +1,1 @@
+(function(d){d['de']=Object.assign(d['de']||{},{a:"Rückgängig",b:"Wiederherstellen",c:"Editor Werkzeugleiste",d:"Mehr anzeigen",e:"Rich Text Editor",f:"Rich-Text-Editor, %0",g:"Dropdown-Liste Werkzeugleiste"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

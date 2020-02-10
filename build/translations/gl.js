@@ -1,0 +1,1 @@
+(function(d){d['gl']=Object.assign(d['gl']||{},{a:"Desfacer",b:"Refacer",c:"Barra de ferramentas do editor",d:"Amosar máis elementos",e:"Editor de texto mellorado",f:"Editor de texto mellorado, %0",g:"Barra de ferramentas despregábel"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

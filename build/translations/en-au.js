@@ -1,0 +1,1 @@
+(function(d){d['en-au']=Object.assign(d['en-au']||{},{a:"Undo",b:"Redo",c:"Editor toolbar",d:"Show more items",e:"Rich Text Editor",f:"Rich Text Editor, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,0 +1,1 @@
+(function(d){d['uk']=Object.assign(d['uk']||{},{a:"Відміна",b:"Повтор",c:"Панель інструментів редактора",d:"Показати більше",e:"Розширений текстовий редактор",f:"Розширений текстовий редактор, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

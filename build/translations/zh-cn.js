@@ -1,0 +1,1 @@
+(function(d){d['zh-cn']=Object.assign(d['zh-cn']||{},{a:"撤销",b:"重做",c:"编辑器工具栏",d:"显示更多",e:"富文本编辑器",f:"富文本编辑器， %0",g:"下拉工具栏"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

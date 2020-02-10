@@ -1,0 +1,1 @@
+(function(d){d['fa']=Object.assign(d['fa']||{},{a:"بازگردانی",b:"باز انجام",c:"نوارابزار ویرایشگر",d:"Show more items",e:"ویرایشگر متن غنی",f:"ویرایشگر متن غنی، %0",g:"نوارابزار کشویی"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

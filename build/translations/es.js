@@ -1,0 +1,1 @@
+(function(d){d['es']=Object.assign(d['es']||{},{a:"Deshacer",b:"Rehacer",c:"Editor toolbar",d:"Show more items",e:"Editor de Texto Enriquecido",f:"Editor de Texto Enriquecido, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

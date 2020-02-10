@@ -1,0 +1,1 @@
+(function(d){d['fi']=Object.assign(d['fi']||{},{a:"Peru",b:"Tee uudelleen",c:"Editor toolbar",d:"Show more items",e:"Rikas tekstieditori",f:"Rikas tekstieditori, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

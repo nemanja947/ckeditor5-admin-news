@@ -1,0 +1,1 @@
+(function(d){d['ko']=Object.assign(d['ko']||{},{a:"실행 취소",b:"다시 실행",c:"Editor toolbar",d:"Show more items",e:"Rich Text Editor",f:"Rich Text Editor, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

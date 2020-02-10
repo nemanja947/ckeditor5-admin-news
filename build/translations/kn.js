@@ -1,0 +1,1 @@
+(function(d){d['kn']=Object.assign(d['kn']||{},{a:"‍‍ರದ್ದು",b:"‍ಮತ್ತೆ ಮಾಡು",c:"Editor toolbar",d:"Show more items",e:"‍ಸಮೃದ್ಧ ಪಠ್ಯ ಸಂಪಾದಕ‍‍",f:"‍ಸಮೃದ್ಧ ಪಠ್ಯ ಸಂಪಾದಕ‍, %0",g:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

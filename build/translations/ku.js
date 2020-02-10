@@ -1,0 +1,1 @@
+(function(d){d['ku']=Object.assign(d['ku']||{},{a:"وەک خۆی لێ بکەوە",b:"هەلگەڕاندنەوە",c:"تووڵامرازی دەسکاریکەر",d:"بڕگەی زیاتر نیشانبدە",e:"سەرنوسەری دەقی بەپیت",f:"سەرنوسەری دەقی بەپیت, %0",g:"تووڵامرازی لیستەیی"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

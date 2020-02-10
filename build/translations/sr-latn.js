@@ -1,0 +1,1 @@
+(function(d){d['sr-latn']=Object.assign(d['sr-latn']||{},{a:"Povlačenje",b:"Ponovo",c:"Uređivač traka sa alatkama",d:"Prikaži još stavki",e:"Prošireni uređivač teksta",f:"Prošireni uređivač teksta, %0",g:"Padajuća traka sa alatkama"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

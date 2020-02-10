@@ -1,0 +1,1 @@
+(function(d){d['hr']=Object.assign(d['hr']||{},{a:"Poništi",b:"Ponovi",c:"Traka uređivača",d:"Prikaži više stavaka",e:"Rich Text Editor",f:"Rich Text Editor, %0",g:"Traka padajućeg izbornika"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

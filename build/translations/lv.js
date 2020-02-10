@@ -1,0 +1,1 @@
+(function(d){d['lv']=Object.assign(d['lv']||{},{a:"Atsaukt",b:"Uz priekšu",c:"Redaktora rīkjosla",d:"Parādīt vairāk vienumus",e:"Bagātinātais Teksta Redaktors",f:"Bagātinātais Teksta Redaktors, %0",g:"Papildus izvēlnes rīkjosla"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,0 +1,1 @@
+(function(d){d['he']=Object.assign(d['he']||{},{a:"ביטול",b:"ביצוע מחדש",c:"סרגל הכלים",d:"הצד פריטים נוספים",e:"עורך טקסט עשיר",f:"עורך טקסט עשיר, %0",g:"סרגל כלים נפתח"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
